@@ -1,0 +1,2 @@
+SELECT * FROM Aluno;
+SELECT * FROM Turma

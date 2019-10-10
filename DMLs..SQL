@@ -8,3 +8,6 @@ UPDATE materia SET materia='Matemática' WHERE IdMateria=1;
 
 /* Excluir dado */
 DELETE FROM materia WHERE IdMateria = 2;
+
+/*TRUNCATE - apaga todos os registros de uma tabela */
+TRUNCATE TABLE trabalho;
