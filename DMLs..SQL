@@ -11,3 +11,4 @@ DELETE FROM materia WHERE IdMateria = 2;
 
 /*TRUNCATE - apaga todos os registros de uma tabela */
 TRUNCATE TABLE trabalho;
+
